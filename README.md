@@ -5,6 +5,13 @@
 Dans ce projet, nous avons développé un modèle de Machine Learning pour prédire si un client d'une entreprise de télécommunications est susceptible de résilier son contrat (churn).
 L'objectif est d'aider les équipes commerciales à anticiper les départs clients et mettre en place des stratégies de fidélisation.
 
+## 🔗 Démo en ligne
+
+L'application Streamlit est disponible gratuitement ici :
+
+👉 [**Accéder à l'app Streamlit**](https://telcochurnprediction-8uly83uimrtk2ypx7xxmuy.streamlit.app/)
+
+
 # 🛠️ Technologies utilisées
 * Python 3.11
 
